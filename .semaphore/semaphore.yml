@@ -55,7 +55,7 @@ blocks:
       - Run tests
     task:
       jobs:
-        - name: deploy to somewarre
+        - name: deploy to somewhere
           commands:
             - 'echo request jenkins deploy '
 after_pipeline:
